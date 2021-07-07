@@ -30,6 +30,6 @@ c = son1 * son2
 d = son1 / son2
 
 print('Yig`indi ' + str(a) + 'ga teng')
-print('Ayirma ' + str(a) + 'ga teng')
-print('Ko`paytma ' + str(a) + 'ga teng')
-print('Bo`linma ' + str(a) + 'ga teng')
+print('Ayirma ' + str(b) + 'ga teng')
+print('Ko`paytma ' + str(c) + 'ga teng')
+print('Bo`linma ' + str(d) + 'ga teng')
